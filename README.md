@@ -9,7 +9,7 @@
     * 🛠️ C#
     * ⚙️ C++ (Arduino / Deneyap Kart 1A)
 * 🌎 Web:
-    * <HTML> HTML
+    * </> HTML
     * 🎨 CSS
 * 🚀 Working On Improving:
     * ✨ JavaScript (DOM / ES6)
@@ -17,4 +17,5 @@
     * 🤯 Regular Expressions
 * 📬 Contact:
     * 📧 E-mail: kaizen@ralite.dev
-    * 💬 Telegram: [t.me/Kaizenim](https://t.me/Kaizenim)
+    * 💬 Telegram: t.me/Kaizenim
+    * 🌐 Matrix: @kaizennim:matrix.org
