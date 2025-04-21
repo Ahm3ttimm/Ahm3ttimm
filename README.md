@@ -17,12 +17,10 @@
 │                                               │
 │  🔍  Working On Improving                     │
 │     ├── JavaScript (DOM / ES6)                │
-│     ├── Java/kotlin Mobile App                │
+│     ├── Java/Kotlin Mobile App                │
 │     └── Regular Expressions 🤯               │
 │                                               │
-│  📬  Contact                                 │
-│                                               │
-│                                               │
-│     ├── E-mail:    	kaizen@ralite.dev         │
-│     └── Telegram:  t.me/ahm3t                 │
+│  📬  Contact                                  │
+│     ├── E-mail:     kaizen@ralite.dev         │
+│     └── Telegram:  [t.me/Kaizenim](https://t.me/Kaizenim) │
 └───────────────────────────────────────────────┘
